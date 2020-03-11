@@ -1136,6 +1136,7 @@ Function Manage_CM_Folders {
 Function CreateForm {
     
     Add-Type -assembly System.Windows.Forms
+    Add-Type -AssemblyName PresentationCore,PresentationFramework
 
     $LeftOffset = 20
     $TopOffset = 20
