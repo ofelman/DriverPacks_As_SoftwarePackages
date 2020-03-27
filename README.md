@@ -26,4 +26,4 @@ ver 2.40
             - added check for both required TSs at startup
             - added information on DriverPack package source to list
 ver 2.41
-            - Added feature to copy already downloaded DriverPack Softpaq, so only single copy gets downloaded from HP
+            - Added feature to copy already downloaded DriverPack Softpaq from file system, so only single instance gets downloaded from HP
